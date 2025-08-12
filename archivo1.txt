@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 aChanchito feliz
+=======
+dsvdsvsdvsdvsd
+455454aChanchito feliz
+23
+>>>>>>> 93d7b7212a0f8870be8b681e3ff017dc9f65af53
